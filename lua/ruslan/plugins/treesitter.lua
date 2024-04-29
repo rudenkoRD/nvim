@@ -39,6 +39,7 @@ return {
 				"go",
 				"gomod",
 				"gosum",
+				"dart",
 			},
 			incremental_selection = {
 				enable = true,
