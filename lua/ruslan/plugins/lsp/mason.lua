@@ -37,6 +37,7 @@ return {
 				"quick_lint_js",
 				"sqlls",
 				"yamlls",
+				"rust_analyzer",
 			},
 		})
 

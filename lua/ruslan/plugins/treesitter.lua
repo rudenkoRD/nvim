@@ -40,6 +40,7 @@ return {
 				"gomod",
 				"gosum",
 				"dart",
+				"rust",
 			},
 			incremental_selection = {
 				enable = true,
